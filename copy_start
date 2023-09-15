@@ -1,0 +1,6 @@
+"root":{4 items
+"description":string"API tokens identifying the accounts of trader which will be used to copy trades"
+"type":string"string"
+"pattern":string"^[\w\s-]{15,32}$"
+"sensitive":int1
+}
